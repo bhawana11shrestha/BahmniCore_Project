@@ -1,0 +1,6 @@
+org\bahmni\module\obsrelationship\model\ObsRelationship.class
+org\bahmni\module\obsrelationship\model\ObsRelationshipType.class
+org\bahmni\module\obsrelationship\dao\impl\ObsRelationshipDaoImpl.class
+org\bahmni\module\obsrelationship\api\impl\ObsRelationServiceImpl.class
+org\bahmni\module\obsrelationship\dao\ObsRelationshipDao.class
+org\bahmni\module\obsrelationship\api\ObsRelationService.class

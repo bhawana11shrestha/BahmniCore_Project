@@ -1,0 +1,9 @@
+org\openmrs\module\bahmnimapping\model\EntityMappingType.class
+org\openmrs\module\bahmnimapping\dao\impl\EntityMappingDaoImpl.class
+org\openmrs\module\bahmnimapping\services\impl\BahmniLocationServiceImpl.class
+org\openmrs\module\bahmnimapping\model\LocationEncounterTypeMap.class
+org\openmrs\module\bahmnimapping\services\BahmniLocationService.class
+org\openmrs\module\bahmnimapping\model\EntityMapping.class
+org\openmrs\module\bahmnimapping\dao\EntityMappingDao.class
+org\openmrs\module\bahmnimapping\dao\impl\LocationEncounterTypeMapDaoImpl.class
+org\openmrs\module\bahmnimapping\dao\LocationEncounterTypeMapDao.class

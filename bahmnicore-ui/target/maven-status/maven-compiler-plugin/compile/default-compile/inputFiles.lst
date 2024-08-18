@@ -1,0 +1,15 @@
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\service\BahmniDiseaseSummaryService.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\contract\ConceptValue.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\contract\DiseaseSummaryMap.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\contract\DiseaseSummaryData.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\helper\DrugOrderDiseaseSummaryAggregator.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\service\impl\BahmniDiseaseSummaryServiceImpl.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\constant\DiseaseSummaryConstants.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\contract\DiseaseDataParams.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\helper\ObsDiseaseSummaryAggregator.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\mapper\DiseaseSummaryObsMapper.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\mapper\DoseInstructionMapper.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\mapper\DiseaseSummaryDrugOrderMapper.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\helper\LabDiseaseSummaryAggregator.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\mapper\DiseaseSummaryLabMapper.java
+D:\BahmniCore\bahmni-core\bahmnicore-ui\src\main\java\org\bahmni\module\bahmnicoreui\contract\Privilege.java

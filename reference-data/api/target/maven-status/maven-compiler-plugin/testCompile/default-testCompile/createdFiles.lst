@@ -1,0 +1,3 @@
+org\bahmni\module\referencedata\labconcepts\service\impl\DrugMetaDataServiceImplTest.class
+org\bahmni\module\referencedata\labconcepts\validator\DrugMetaDataValidatorTest.class
+org\bahmni\module\referencedata\labconcepts\service\impl\ConceptMetaDataServiceImplTest.class

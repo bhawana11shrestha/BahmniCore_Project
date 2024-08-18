@@ -1,0 +1,16 @@
+org\bahmni\test\builder\VisitBuilder.class
+org\bahmni\test\builder\DrugBuilder.class
+org\bahmni\test\builder\TestOrderBuilder.class
+org\bahmni\test\properties\PropertiesReader.class
+org\bahmni\test\builder\DrugOrderBuilder.class
+org\bahmni\test\properties\SystemPropertiesReader.class
+org\bahmni\test\builder\DiagnosisBuilder.class
+org\bahmni\test\builder\EncounterBuilder.class
+org\bahmni\test\web\controller\BaseWebControllerTest.class
+org\bahmni\test\builder\ConceptNumericBuilder.class
+org\bahmni\test\properties\PropertiesReaderImpl.class
+org\bahmni\test\web\controller\BaseWebControllerTest$Parameter.class
+org\bahmni\test\builder\ObsBuilder.class
+org\bahmni\test\builder\PersonBuilder.class
+org\bahmni\test\builder\ConceptBuilder.class
+org\bahmni\test\builder\DrugOrderBuilder$1.class

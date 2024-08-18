@@ -1,0 +1,3 @@
+org\openmrs\module\bahmnimapping\services\impl\BahmniLocationServiceImplTest.class
+org\openmrs\module\bahmnimapping\dao\impl\LocationEncounterTypeMapDaoImplIT.class
+org\openmrs\module\bahmnimapping\dao\impl\EntityMappingDaoImplIT.class
